@@ -1,1 +1,1 @@
-# twirp-proxy
+# Twirp proxy
